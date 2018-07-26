@@ -1,0 +1,68 @@
+length of "eecs": 4
+append_c_string("eecs" + "281") = eecs281
+Dictionary length counts:
+  There are 1 words of length 2!
+  There are 10 words of length 3!
+  There are 22 words of length 4!
+  There are 35 words of length 5!
+  There are 33 words of length 6!
+  There are 50 words of length 7!
+  There are 57 words of length 8!
+  There are 40 words of length 9!
+  There are 31 words of length 10!
+  There are 26 words of length 11!
+  There are 26 words of length 12!
+  There are 22 words of length 13!
+  There are 8 words of length 14!
+  There are 4 words of length 15!
+  There are 8 words of length 16!
+  There are 2 words of length 17!
+  There are 2 words of length 18!
+(Hint: there are 8 words of length 16 in dict.txt)
+(Hint: the longest word is 18 letters long)
+The following words can be made up of two other words:
+  #1 anamoose = anam + oose
+  #2 bobsledder = bob + sledder
+  #3 cromona = cro + mona
+  #4 disavows = dis + avows
+  #5 dishouse = dis + house
+  #6 galloons = gall + oons
+  #7 garoting = garo + ting
+  #8 gregariousnesses = gregarious + nesses
+  #9 ingomar = ing + omar
+  #10 isothermally = iso + thermally
+  #11 masslessness = mass + lessness
+  #12 monkeytail = monkey + tail
+  #13 nitrogenic = nitro + genic
+  #14 prepositions = pre + positions
+  #15 pseudomiraculous = pseudo + miraculous
+  #16 schoolbook = school + book
+  #17 smotherable = smother + able
+  #18 syncarps = syn + carps
+  #19 undeformed = unde + formed
+  #20 underballast = under + ballast
+  #21 undermaster = under + master
+  #22 undisplayable = undis + playable
+  #23 whaleboat = whale + boat
+The following words are palindromes:
+  #1 abba
+  #2 adinida
+  #3 bob
+  #4 deified
+  #5 hannah
+  #6 kelek
+  #7 level
+  #8 minim
+  #9 murdrum
+  #10 racecar
+  #11 remmer
+  #12 repaper
+  #13 reviver
+  #14 rotator
+  #15 shahs
+  #16 stats
+
+Your code produced the following results:
+Your average length of all words was 8.55
+Your total number of words made up of two words was 23
+Your total number of palindromes was 16

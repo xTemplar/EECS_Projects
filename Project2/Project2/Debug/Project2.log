@@ -1,0 +1,10 @@
+﻿  Project2.cpp
+  Generating Code...
+  Compiling...
+  testPQ.cpp
+  Generating Code...
+  getopt.c
+  LINK : C:\Users\Raymond\Desktop\Ray Stuff\University of Michigan\Sophomore\Spring\EECS 281\P2\Project2\Debug\Project2.exe not found or not built by the last incremental link; performing full link
+Project2.obj : error LNK2005: _main already defined in testPQ.obj
+Project2.obj : error LNK2019: unresolved external symbol "public: static void __cdecl P2random::PR_init(class std::basic_stringstream<char,struct std::char_traits<char>,class std::allocator<char> > &,unsigned int,unsigned int,unsigned int,unsigned int)" (?PR_init@P2random@@SAXAAV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@IIII@Z) referenced in function _main
+C:\Users\Raymond\Desktop\Ray Stuff\University of Michigan\Sophomore\Spring\EECS 281\P2\Project2\Debug\Project2.exe : fatal error LNK1120: 1 unresolved externals
