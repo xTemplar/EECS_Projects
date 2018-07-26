@@ -1,0 +1,13 @@
+S
+5
+iNasr
+//reversal 
+rsaNi
+//what if not all lines are used?
+//and what if more than 10 lines of comments
+//swapping letters non-adjacently
+rain
+iarn
+//should be case sensitive
+iarNs
+//letters scrambled aren't the same

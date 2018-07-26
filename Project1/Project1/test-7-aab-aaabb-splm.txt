@@ -1,0 +1,6 @@
+S 
+4
+aab
+aba
+baa
+aaabb

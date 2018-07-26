@@ -1,0 +1,12 @@
+S
+10
+a
+aa
+b
+aaa
+bb
+aaaa
+bbb
+aaaaa
+bbbb
+aaaaaa
