@@ -1,0 +1,15 @@
+k a
+r
+a 0
+a 6 
+p
+c A
+c B
+c C
+r
+g
+p
+l
+g
+p
+q

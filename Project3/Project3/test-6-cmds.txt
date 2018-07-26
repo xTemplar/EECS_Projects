@@ -1,0 +1,13 @@
+#basically everything you shouldn't do
+c abc
+t 00:00:00:00:00|00:00:00:00:01
+m 00:00:00:00:01
+A 10
+a -5
+e -3
+b -3
+g
+r
+s
+l
+q

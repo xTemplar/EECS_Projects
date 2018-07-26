@@ -1,0 +1,14 @@
+#a lot of comments
+#
+a 4
+c 
+# c db mgr
+c tcp
+g
+c tcp-1
+g
+k hi-yo-dawg-poop
+g
+k hi yo dawg poop
+g
+q

@@ -1,0 +1,12 @@
+00:00:00:00:00|TCP|Troll Message
+14:42:32:32:32|What-if-message-here?|hello
+00:00:00:00:00|tCp|A lot of we#ird (hello) stuff happens
+00:00:00:00:99|tcpo1|-
+99:99:99:99:99|BIG|try-to-break-it
+00:00:00:00:01|hi-yo-dawg|poop
+00:00:00:00:11|hi-yo|dawg-poop
+00:00:00:01:11|hi|yo-dawg-poop
+00:00:00:00:01|tcp-1|Idk ho?w long-this is-- supposed 
+00:00:01:00:00|tcp-1|to be?what?if-everything-was-crammed
+00:00:00:11:11|xxx|hi-yo-dawg-poop
+00:00:01:11:11|xxx|hiyodawgpoop

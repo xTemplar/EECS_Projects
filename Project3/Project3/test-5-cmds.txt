@@ -1,0 +1,18 @@
+c abc
+r
+s
+p
+d 0
+p
+b 0
+p
+d 1
+p
+e 9
+p
+a 0
+a 1
+a 2
+a 0
+s
+q
